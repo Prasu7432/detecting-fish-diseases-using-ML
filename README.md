@@ -1,4 +1,4 @@
-****A MACHINE LEARNING APPROACH FOR EARLY DETECTION OF FISH DISEASES BY ANALYZING WATER QUALITY ****
+**A MACHINE LEARNING APPROACH FOR EARLY DETECTION OF FISH DISEASES BY ANALYZING WATER QUALITY **
 
 **ABSTRACT:**
 
@@ -25,10 +25,10 @@ One of the most popular supervised machine learning techniques, support vector m
 2.Identification of infected fishes in aquaculture remains challenging to find out at the early stage due to the dearth of necessary infrastructure.
 3.The identification of infected fish timely is an obligatory step to thwart the spread of disease. In this work, we want to find out the salmon fish disease in aquaculture, as salmon aquaculture is the fastest-growing food production system globally, accounting for 70 percent (2.5 million tons) of the market.
 
-**SYSTEM REQUIREMENTS:
+**SYSTEM REQUIREMENTS:**
 
-HARDWARE REQUIREMENTS:**
-
+**HARDWARE REQUIREMENTS:
+**
 ● System     :  MINIMUM i3
 
 ● Hard Disk  :  40GB
