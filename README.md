@@ -27,8 +27,8 @@ One of the most popular supervised machine learning techniques, support vector m
 
 **SYSTEM REQUIREMENTS:**
 
-**HARDWARE REQUIREMENTS:
-**
+**HARDWARE REQUIREMENTS:**
+
 ● System     :  MINIMUM i3
 
 ● Hard Disk  :  40GB
